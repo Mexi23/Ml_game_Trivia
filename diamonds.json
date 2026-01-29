@@ -1,41 +1,80 @@
 [
   {
-    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png",
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122111.jpg",
   
   
-    "diamonds_value":"10",
+    "diamonds_value":"5",
+  
+  
+    "coins_value":"600"
+  },
+  
+  {
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122131.jpg",
+  
+  
+    "diamonds_value":"11",
   
   
     "coins_value":"1000"
   },
   
   {
-    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png",
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122138.jpg",
   
   
-    "diamonds_value":"15",
-  
-  
-    "coins_value":"1500"
-  },
-  
-  {
-    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png",
-  
-  
-    "diamonds_value":"20",
+    "diamonds_value":"22",
   
   
     "coins_value":"1800"
   },
   
   {
-    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png",
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122145.jpg",
   
   
-    "diamonds_value":"25",
+    "diamonds_value":"56",
   
  
-    "coins_value":"2200"
+    "coins_value":"4500"
+  },
+    {
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122156.jpg",
+  
+  
+    "diamonds_value":"112",
+  
+  
+    "coins_value":"9000"
+  },
+  
+  {
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122204.jpg",
+  
+  
+    "diamonds_value":"223",
+  
+  
+    "coins_value":"17000"
+  },
+  
+  {
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122213.jpg",
+  
+  
+    "diamonds_value":"336",
+  
+  
+    "coins_value":"25000"
+  },
+  
+  {
+    "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122221.jpg",
+  
+  
+    "diamonds_value":"570",
+  
+ 
+    "coins_value":"39000"
   }
 ]
