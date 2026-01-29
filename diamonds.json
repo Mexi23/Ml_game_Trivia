@@ -1,11 +1,38 @@
 [
   {
-    "diamonds_image":""
+    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png"
   },
   {
     "diamonds_value":"10"
   },
   {
     "coins_value":"1000"
+  },
+  {
+    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png"
+  },
+  {
+    "diamonds_value":"15"
+  },
+  {
+    "coins_value":"1500"
+  },
+  {
+    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png"
+  },
+  {
+    "diamonds_value":"20"
+  },
+  {
+    "coins_value":"1800"
+  },
+  {
+    "diamonds_image":"https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/cutout-1769655576.png"
+  },
+  {
+    "diamonds_value":"25"
+  },
+  {
+    "coins_value":"2200"
   }
 ]
