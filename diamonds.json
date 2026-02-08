@@ -6,7 +6,7 @@
     "diamonds_value":"5",
   
   
-    "coins_value":"600"
+    "coins_value":"4900"
   },
   
   {
@@ -16,7 +16,7 @@
     "diamonds_value":"11",
   
   
-    "coins_value":"1000"
+    "coins_value":"9800"
   },
   
   {
@@ -26,7 +26,7 @@
     "diamonds_value":"22",
   
   
-    "coins_value":"1800"
+    "coins_value":"18000"
   },
   
   {
@@ -36,7 +36,7 @@
     "diamonds_value":"56",
   
  
-    "coins_value":"4500"
+    "coins_value":"44500"
   },
     {
     "diamonds_image":"https://github.com/Mexi23/TriviaImages/raw/refs/heads/main/20260129_122156.jpg",
@@ -45,7 +45,7 @@
     "diamonds_value":"112",
   
   
-    "coins_value":"8900"
+    "coins_value":"87000"
   },
   
   {
@@ -55,7 +55,7 @@
     "diamonds_value":"223",
   
   
-    "coins_value":"17000"
+    "coins_value":"162000"
   },
   
   {
@@ -65,7 +65,7 @@
     "diamonds_value":"336",
   
   
-    "coins_value":"25000"
+    "coins_value":"220000"
   },
   
   {
@@ -75,6 +75,6 @@
     "diamonds_value":"570",
   
  
-    "coins_value":"39000"
+    "coins_value":"290000"
   }
 ]
